@@ -1,4 +1,4 @@
-# Android Emulator Setup for Penetration Testing (Windows)
+![image](https://github.com/user-attachments/assets/0c769d66-4f9e-4bef-92a2-96f1bea8c283)# Android Emulator Setup for Penetration Testing (Windows)
 
 This guide helps penetration testers set up an Android Virtual Device (AVD) using Android Studio on Windows. AVDs are essential for mobile app testing, reverse engineering, and dynamic analysis in a controlled lab environment.
 
@@ -94,9 +94,15 @@ Click **Download** → After install → Click **Next**
 
 ### 7. Launch the Emulator
 
-From the **Device Manager**, click the green ▶️ Play button.
+From the **Device Manager**, click the green ▶️ Play button:
 
-Once launched, the emulator boots into Android OS.
+![image](https://github.com/user-attachments/assets/3acccdcf-54e8-4f26-8323-3b2296f66fbf)
+
+
+Once launched, the emulator boots into Android OS:
+
+![image](https://github.com/user-attachments/assets/304e936c-772b-4251-9c01-c759dd91cb1e)
+
 
 ---
 
