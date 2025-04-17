@@ -77,9 +77,11 @@ Then:
 
 - Example: `Tiramisu (API 33) - x86_64 - Google APIs`
 
+![image](https://github.com/user-attachments/assets/daf2e3f0-f945-4714-b6f7-bd0cf47d6a4c)
+
 Click **Download** → After install → Click **Next**:
 
-![image](https://github.com/user-attachments/assets/daf2e3f0-f945-4714-b6f7-bd0cf47d6a4c)
+![image](https://github.com/user-attachments/assets/6e778f8a-6f0f-4519-b85f-69c38432ab96)
 
 
 ---
