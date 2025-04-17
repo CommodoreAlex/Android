@@ -1,6 +1,6 @@
 # Android Reverse Engineering
 
-This repository is dedicated to documenting and demonstrating the process of reverse engineering Android applications. It is designed for penetration testers, security researchers, and learners interested in analyzing APKs, bypassing security controls, and uncovering vulnerabilities within Android apps.
+Currently working on reverse engineering Android APKs with the goal of identifying vulnerabilities and insecure implementations using tools like jadx, apktool, and MobSF. Setting up simulated environments in Android Studio to enable dynamic analysis and runtime behavior inspection. This project aims to build expertise in mobile app security, Android-specific exploitation techniques, and secure application design through hands-on analysis and tooling exploration.
 
 ---
 
