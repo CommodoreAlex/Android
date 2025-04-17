@@ -35,7 +35,9 @@ You don’t need to build an actual app—just create a dummy project to access 
 
 - Name it anything (e.g., `TestAVD`)
 
-- Finish the setup
+- Finish the setup and you will see the project window:
+
+![image](https://github.com/user-attachments/assets/f39d7ee2-52a1-4154-b538-a330609f0716)
 
 
 ---
