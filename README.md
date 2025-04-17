@@ -6,4 +6,4 @@ This repository is dedicated to documenting and demonstrating the process of rev
 
 ## Table of Contents
 
-[Android Studio (ADV)](adv.md)
+[Setting up a Virtual Device with Android Studio (ADV)](avd.md)
