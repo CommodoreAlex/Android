@@ -19,6 +19,9 @@ During setup:
 
 - Ensure the Android Virtual Device (AVD) and SDK components are included.
 
+![image](https://github.com/user-attachments/assets/b567550f-33ce-46bc-a5e1-09aaa46b7fe7)
+
+
 ---
 
 ### 2. Launch Android Studio & Create a New Project
@@ -26,6 +29,9 @@ During setup:
 You don’t need to build an actual app—just create a dummy project to access the Device Manager.
 
 - Select: `New Project → Empty Activity`
+
+![image](https://github.com/user-attachments/assets/3ae7f804-daee-4042-bd99-9dcf2dd6e9f6)
+
 
 - Name it anything (e.g., `TestAVD`)
 
