@@ -6,8 +6,6 @@ Currently working on reverse engineering Android APKs with the goal of identifyi
 
 ## Table of Contents
 
-[Setting up a Virtual Device with Android Studio (ADV)](adv.md)
-
-[Interacting with Emulated Devices with Android Debug Bridge (ADB)](adb.md)
-
-[Penetration Testing Tool Overview for Android](tools.md)
+1. [Setting up a Virtual Device with Android Studio (ADV)](adv.md)
+2. [Interacting with Emulated Devices with Android Debug Bridge (ADB)](adb.md)
+3. [Penetration Testing Tool Overview for Android](tools.md)
